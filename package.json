@@ -1,0 +1,15 @@
+{
+  "name": "npm-with-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Eduardo Odriozola <eduardocorrientes@gmail.com> (https://github.com/garrus3000)",
+  "license": "ISC",
+  "dependencies": {
+    "rgb-random-bw": "^1.0.0"
+  }
+}
